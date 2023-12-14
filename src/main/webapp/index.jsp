@@ -1,9 +1,10 @@
 <html>
 <body>
-<h2>Hello World! Welcome to Jenkins Tomcat Web App</h2>
-  <h3> Stage Deployment V2.7 RC1 </h3>
-  <h3> Good luck to you... </h3>
-  <h3> You are doing good work ... </h3>
-  <h1> Latest revision </h1>  
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"> 
+        <h1>*************** BERGEN ABLA /////////////////  </h1>
+
+            <br>
+        <img src="https://i.ytimg.com/vi/JteCiLXMIZU/maxresdefault.jpg" alt="">
+</div>
 </body>
 </html>
